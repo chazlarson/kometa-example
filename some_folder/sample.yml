@@ -1,0 +1,4 @@
+collections:
+  Do-nothing:
+    build_collection: false
+    plex_all: true
